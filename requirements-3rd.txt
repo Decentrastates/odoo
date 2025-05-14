@@ -1,0 +1,35 @@
+# pycrypto已经废弃
+#pycryptodome
+
+#Crypto
+#python-crontab
+dropbox
+pyncclient
+# amazon s3
+boto3
+nextcloud-api-wrapper
+paramiko
+cssselect
+
+# flask-socketio
+#pdfkit
+
+cachetools
+wechatpy
+wechatpayv3
+
+# aliyun oss
+# oss2
+
+pypeg2
+
+# gdown
+
+cryptography==38.0.4
+# psycoPG2
+
+
+kdn-sdk
+autils
+# cairosvg # 转换为svg
+pdfminer
